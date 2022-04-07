@@ -34,6 +34,7 @@
 
 содержимое скрипта:
 #!/bin/bash
+mkdir test_dir
 cd test_dir
 mkdir dir1 dir2 dir3
 cd dir2
