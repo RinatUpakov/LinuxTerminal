@@ -1,0 +1,23 @@
+<bug_report>
+
+  <title>Не добавляются товары в корзину</title>
+  <project>Internet shop</project>
+  <version>v17.2.4</version>
+  <severity>4</severity>
+  <priority>3</priority>
+  <status>Открыт</status>
+  <author>Upakov Rinat</author>
+  <steps>
+      <step1>Открыть главную страницу магазина https.example.com</step1>
+    <step2>Войти в аккаунт пользователем <user>
+                                            <login>login</login>
+                                            <password>password</password>  
+                                          </user>
+                                          </step2>
+      <step3>Выбрать любой товар с главной страницы, нажав на него открыть карточку товара</step3>
+      <step4>Нажать кнопку "Добавить в корзину"</step4>
+    </steps>
+  <expResult>Товар добавлен в корзину, есть кнопка 'оплатить'</expResult>
+  <actResult>Товар в корзину не добавился, корзина пуста, кнопка оплаты отсутствует</actResult>
+
+</bug_report>

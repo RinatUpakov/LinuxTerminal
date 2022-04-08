@@ -1,0 +1,4 @@
+Name: Rinat Upakov
+Age: 29
+Pets: No
+Salary: 1000
