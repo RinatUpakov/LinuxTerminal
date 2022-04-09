@@ -1,4 +1,4 @@
-<h1 align= "center">Terminal Linux</h1>
+<h1 align= "center">Terminal Linux, GIT</h1>
 <h2 align= "center">Задание 1</h2>
 
 ### Файл с выполненным заданием: [GitBash_HW.txt](https://github.com/RinatUpakov/QA_Group28/blob/79ff441ec03dcd6a1d635d8848ef46426d75ca5e/Gitbash_HW.txt)
