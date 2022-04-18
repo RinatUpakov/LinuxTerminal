@@ -56,7 +56,7 @@ ____
 
 <h2 align= "center">Задание 2</h2>
 
-### Файлы с выполненным заданием: [GitBash_HW.txt](https://github.com/RinatUpakov/QA_Group28/blob/79ff441ec03dcd6a1d635d8848ef46426d75ca5e/Gitbash_HW_2.txt)
+### Файлы с выполненным заданием: [GitBash_HW_2.txt](https://github.com/RinatUpakov/LinuxTerminal/blob/285c4900f200b3220199177fcc9bac424106df62/GitBash_HW_2.txt)
 
 ____
 
