@@ -3,8 +3,8 @@
   "title": "не добавляются товары в корзину",
   "project": "Internet shop",
   "version": "v17.2.4",
-  "severity": 4,
-  "Priority": 3,
+  "severity": "critical",
+  "Priority": "High",
   "status": "открыт",
   "author": "Upakov Rinat",
   "steps to reproduce": "{

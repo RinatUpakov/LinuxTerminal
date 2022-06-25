@@ -3,8 +3,8 @@
   <title>Не добавляются товары в корзину</title>
   <project>Internet shop</project>
   <version>v17.2.4</version>
-  <severity>4</severity>
-  <priority>3</priority>
+  <severity>Critical</severity>
+  <priority>High</priority>
   <status>Открыт</status>
   <author>Upakov Rinat</author>
   <steps>
