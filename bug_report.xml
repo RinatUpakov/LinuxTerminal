@@ -19,5 +19,5 @@
     </steps>
   <expResult>Товар добавлен в корзину, есть кнопка 'оплатить'</expResult>
   <actResult>Товар в корзину не добавился, корзина пуста, кнопка оплаты отсутствует</actResult>
-
+  <attachments>file.zip</attachments>
 </bug_report>
